@@ -1,0 +1,21 @@
+.card-main-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.search {
+  width: 200px;
+  padding: 8px;
+}
+.filters_wrapper {
+  text-align: center;
+}
+.add_recipe_icon_wrapper {
+  margin-top: 2rem;
+  text-align: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 01rem;
+}

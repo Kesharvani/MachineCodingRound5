@@ -1,0 +1,32 @@
+.card_wrapper {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: 320px;
+  width: 200px;
+  padding: 10px;
+  position: relative;
+}
+
+.text_wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.text_wrapper p {
+  margin: 0.3rem;
+  font-weight: bold;
+}
+h3 {
+  margin: 0px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+.paragraph {
+  cursor: pointer;
+}
+.icon_wrapper {
+  display: flex;
+  gap: 0.2rem;
+  position: absolute;
+  top: 0.7rem;
+  right: 0.7rem;
+}
